@@ -1,0 +1,6 @@
+name: carusel2
+version: '${version}'
+main: dev.carusel.Carusel
+commands:
+  carusel: {}
+

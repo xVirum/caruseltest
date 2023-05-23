@@ -1,0 +1,10 @@
+messages:
+  noperms: "У вас нет права на использование данной команды"
+  usage: "Использование: /carusel reload"
+  reload: "Плагин перезагружен"
+  notfound: "Команда не найдена"
+carusel:
+  radius: 8.0
+  speed: 3.0
+  horses: 4
+  verticalspeed: 3.0
